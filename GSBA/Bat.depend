@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1491659056 source:/home/usr/Bat/bat.cpp
+	"bat.h"
+
+1491479610 /home/usr/Bat/bat.h
+	<iostream>
+	"stdio.h"
+	"stdlib.h"
+	<fstream>
+	<string.h>
+	"time.h"
+	"math.h"
+	"random.h"
+	<sys/stat.h>
+
+1491201965 source:/home/usr/Bat/random.cpp
+	<stdio.h>
+	<sys/time.h>
+	<fcntl.h>
+	<stdlib.h>
+	<unistd.h>
+
+1491201965 /home/usr/Bat/random.h
+
+1491201965 source:/home/usr/Desktop/usr/Bat/random.cpp
+	<stdio.h>
+	<sys/time.h>
+	<fcntl.h>
+	<stdlib.h>
+	<unistd.h>
+
+1491736269 source:/home/usr/Desktop/usr/Bat/bat.cpp
+	"bat.h"
+
+1491723529 /home/usr/Desktop/usr/Bat/bat.h
+	<iostream>
+	"stdio.h"
+	"stdlib.h"
+	<fstream>
+	<string.h>
+	"time.h"
+	"math.h"
+	"random.h"
+	<sys/stat.h>
+
+1491201965 /home/usr/Desktop/usr/Bat/random.h
+
+1491201965 source:/home/usr/Desktop/usr/Bat (copy)/random.cpp
+	<stdio.h>
+	<sys/time.h>
+	<fcntl.h>
+	<stdlib.h>
+	<unistd.h>
+
+1491806500 source:/home/usr/Desktop/usr/Bat (copy)/bat.cpp
+	"bat.h"
+
+1491806421 /home/usr/Desktop/usr/Bat (copy)/bat.h
+	<iostream>
+	"stdio.h"
+	"stdlib.h"
+	<fstream>
+	<string.h>
+	"time.h"
+	"math.h"
+	"random.h"
+	<sys/stat.h>
+
+1491201965 /home/usr/Desktop/usr/Bat (copy)/random.h
+
+1491201965 source:/home/usr/Desktop/usr/GSBA/random.cpp
+	<stdio.h>
+	<sys/time.h>
+	<fcntl.h>
+	<stdlib.h>
+	<unistd.h>
+
+1491986989 source:/home/usr/Desktop/usr/GSBA/bat.cpp
+	"bat.h"
+
+1491987179 /home/usr/Desktop/usr/GSBA/bat.h
+	<iostream>
+	"stdio.h"
+	"stdlib.h"
+	<fstream>
+	<string.h>
+	"time.h"
+	"math.h"
+	"random.h"
+	<sys/stat.h>
+
+1491201965 /home/usr/Desktop/usr/GSBA/random.h
+
+1491201965 source:/home/usr/GSBA/random.cpp
+	<stdio.h>
+	<sys/time.h>
+	<fcntl.h>
+	<stdlib.h>
+	<unistd.h>
+
+1491898883 source:/home/usr/GSBA/bat.cpp
+	"bat.h"
+
+1491898883 /home/usr/GSBA/bat.h
+	<iostream>
+	"stdio.h"
+	"stdlib.h"
+	<fstream>
+	<string.h>
+	"time.h"
+	"math.h"
+	"random.h"
+	<sys/stat.h>
+
+1491201965 /home/usr/GSBA/random.h
+
