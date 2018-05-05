@@ -4,7 +4,7 @@ This project is to solve what we call mapping problems for 3D Network-on-Chips (
 What I did in this project were firstly building a 3D NoC platform, which we assume is a homogeneous chip, secondly making an approximate power model, also used as the fitness function in my iterations, and finally using BA to do the optimization iterations. The example graph here I used was Video Object Plane Decoder (VOPD), as shown in the following Fig.
 <div align=center><img height ="500" src="images/VOPD.png"/></div>
 I mapped this graph with 16 nodes and 21 edges onto a 3*3*3 mesh structured NoC, aiming to find the arrangement of IP cores with the lowest power consumption. The method was generating populations with a certain number of individuals randomly, where each individual represents one arrangement of the nodes on the NoC. The next Fig shows the generations of random individuals, with their initial fitness values.
-![Screenshot](images/1.png)
+<div align=center><img src="images/1.png"/></div>
 Then as the iterations proceed, the algorithm can find better solutions with lower fitness values, and also output which one the current best is, and its fitness value. In the bat.h file we can set the population scale and the maximum iteration times. I have to mention that random.cpp and random.h were cited from others' work, but excellently applied in my project. The iteration process is shown in the following Figs.
-![Screenshot](images/2.png)
-![Screenshot](images/3.png)
+<div align=center><img src="images/2.png"/></div>
+<div align=center><img src="images/3.png"/></div>
